@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/EmbeddedSystemX_bin.dir/EmbeddedSystemX.cpp.o -o ../../bin/EmbeddedSystemX/EmbeddedSystemX  -lcommon 

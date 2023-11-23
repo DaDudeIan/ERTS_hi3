@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyExecutable.dir/main.cpp.o -o ../bin/main  main_state_machine/libEmbeddedSystemX_lib.a operational_state_machine/libOperational_lib.a main_state_machine/libEmbeddedSystemX_lib.a operational_state_machine/libOperational_lib.a 

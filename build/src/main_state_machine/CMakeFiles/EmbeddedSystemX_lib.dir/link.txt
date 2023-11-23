@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEmbeddedSystemX_lib.a CMakeFiles/EmbeddedSystemX_lib.dir/Failure.cpp.o CMakeFiles/EmbeddedSystemX_lib.dir/Initializing.cpp.o CMakeFiles/EmbeddedSystemX_lib.dir/PowerOnSelfTest.cpp.o CMakeFiles/EmbeddedSystemX_lib.dir/EmbeddedSystemX.cpp.o
+/usr/bin/ranlib libEmbeddedSystemX_lib.a

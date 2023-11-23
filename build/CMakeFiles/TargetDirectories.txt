@@ -1,0 +1,13 @@
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/CMakeFiles/MyExecutable.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/common/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/common/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/main_state_machine/CMakeFiles/EmbeddedSystemX_lib.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/main_state_machine/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/main_state_machine/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/operational_state_machine/CMakeFiles/Operational_lib.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/operational_state_machine/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/build/src/operational_state_machine/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOperational_lib.a CMakeFiles/Operational_lib.dir/Ready.cpp.o CMakeFiles/Operational_lib.dir/Configuration.cpp.o CMakeFiles/Operational_lib.dir/Operational.cpp.o CMakeFiles/Operational_lib.dir/Suspended.cpp.o CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o CMakeFiles/Operational_lib.dir/StopCommand.cpp.o
+/usr/bin/ranlib libOperational_lib.a
