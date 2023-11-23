@@ -190,8 +190,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Configuration.cpp.o
   ../src/operational_state_machine/headers/Ready.h \
   ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/Command.h \
-  ../src/operational_state_machine/headers/ResumeCommand.h \
-  ../src/operational_state_machine/headers/StopCommand.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Ready.h
 
@@ -384,8 +382,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Operational.cpp.o: 
   ../src/operational_state_machine/headers/Ready.h \
   ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/Command.h \
-  ../src/operational_state_machine/headers/ResumeCommand.h \
-  ../src/operational_state_machine/headers/StopCommand.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Operational.h
 
@@ -578,14 +574,12 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Ready.cpp.o: ../src
   ../src/operational_state_machine/headers/Ready.h \
   ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/Command.h \
-  ../src/operational_state_machine/headers/ResumeCommand.h \
-  ../src/operational_state_machine/headers/StopCommand.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Configuration.h
 
 src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o: ../src/operational_state_machine/ResumeCommand.cpp \
   /usr/include/stdc-predef.h \
-  ../src/operational_state_machine/headers/ResumeCommand.h \
+  ../src/operational_state_machine/headers/Command.h \
   /usr/include/c++/11/iostream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -761,7 +755,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  ../src/operational_state_machine/headers/Command.h \
   ../src/operational_state_machine/headers/Operational.h \
   ../src/common/State.h \
   ../src/main_state_machine/headers/EmbeddedSystemX.h \
@@ -772,8 +765,8 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o
   ../src/operational_state_machine/headers/OperationalSubstate.h \
   ../src/operational_state_machine/headers/Ready.h \
   ../src/operational_state_machine/headers/Suspended.h \
-  ../src/operational_state_machine/headers/StopCommand.h \
   ../src/operational_state_machine/headers/EventTypes.h \
+  ../src/operational_state_machine/headers/ResumeCommand.h \
   ../src/operational_state_machine/headers/Operational.h \
   ../src/operational_state_machine/headers/Ready.h
 
@@ -1160,8 +1153,8 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Suspended.cpp.o: ..
   ../src/operational_state_machine/headers/Ready.h \
   ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/EventTypes.h \
-  ../src/operational_state_machine/headers/ResumeCommand.h \
   ../src/operational_state_machine/headers/StopCommand.h \
+  ../src/operational_state_machine/headers/ResumeCommand.h \
   ../src/operational_state_machine/headers/Ready.h
 
 

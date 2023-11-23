@@ -7,5 +7,5 @@ class Command{
     public:
         Command(){}
         virtual ~Command(){}
-        virtual void execute(Operational* context) = 0;
+        virtual void execute(Operational* context) const = 0;
 };

@@ -1,3 +1,4 @@
+#include "Command.h"
 #include "ResumeCommand.h"
 #include "Operational.h"
 #include "Ready.h"

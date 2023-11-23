@@ -1,7 +1,7 @@
 src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o: \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/ResumeCommand.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/ResumeCommand.h \
+ /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Command.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -146,7 +146,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Command.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Operational.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/common/State.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/common/../main_state_machine/headers/EmbeddedSystemX.h \
@@ -158,5 +157,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Ready.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Suspended.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/EventTypes.h \
+ /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/ResumeCommand.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Operational.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Ready.h

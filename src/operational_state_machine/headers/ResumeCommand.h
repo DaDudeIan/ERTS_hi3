@@ -3,7 +3,7 @@
 #include <iostream>
 #include "Command.h"
 
-class Resume : public Command{
+class Resume : public Command {
     public:
         Resume(){}
         ~Resume(){}

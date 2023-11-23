@@ -3,7 +3,7 @@
 #include <iostream>
 #include "Command.h"
 
-class Stop : public Command{
+class Stop : public Command {
     public:
         Stop(){}
         ~Stop(){}
