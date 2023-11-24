@@ -156,7 +156,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Suspended.cpp.o: \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/main_state_machine/headers/Failure.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/OperationalSubstate.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Ready.h \
- /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Suspended.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/EventTypes.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/StopCommand.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/ResumeCommand.h \

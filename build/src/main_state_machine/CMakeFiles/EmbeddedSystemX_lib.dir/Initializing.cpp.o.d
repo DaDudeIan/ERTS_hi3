@@ -156,4 +156,5 @@ src/main_state_machine/CMakeFiles/EmbeddedSystemX_lib.dir/Initializing.cpp.o: \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Operational.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/OperationalSubstate.h \
  /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Operational.h \
- /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Ready.h
+ /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/Ready.h \
+ /mnt/c/Users/ianda/OneDrive/AU/7_semester/erts/hi3/src/operational_state_machine/headers/EventTypes.h

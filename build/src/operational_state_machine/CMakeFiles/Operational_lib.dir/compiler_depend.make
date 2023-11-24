@@ -188,8 +188,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Configuration.cpp.o
   ../src/main_state_machine/headers/PowerOnSelfTest.h \
   ../src/main_state_machine/headers/Failure.h \
   ../src/operational_state_machine/headers/Ready.h \
-  ../src/operational_state_machine/headers/Suspended.h \
-  ../src/operational_state_machine/headers/Command.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Ready.h
 
@@ -380,8 +378,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Operational.cpp.o: 
   ../src/main_state_machine/headers/PowerOnSelfTest.h \
   ../src/main_state_machine/headers/Failure.h \
   ../src/operational_state_machine/headers/Ready.h \
-  ../src/operational_state_machine/headers/Suspended.h \
-  ../src/operational_state_machine/headers/Command.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Operational.h
 
@@ -572,8 +568,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Ready.cpp.o: ../src
   ../src/main_state_machine/headers/PowerOnSelfTest.h \
   ../src/main_state_machine/headers/Failure.h \
   ../src/operational_state_machine/headers/Ready.h \
-  ../src/operational_state_machine/headers/Suspended.h \
-  ../src/operational_state_machine/headers/Command.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Configuration.h
 
@@ -764,7 +758,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/ResumeCommand.cpp.o
   ../src/main_state_machine/headers/Failure.h \
   ../src/operational_state_machine/headers/OperationalSubstate.h \
   ../src/operational_state_machine/headers/Ready.h \
-  ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/ResumeCommand.h \
   ../src/operational_state_machine/headers/Operational.h \
@@ -958,7 +951,6 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/StopCommand.cpp.o: 
   ../src/main_state_machine/headers/Failure.h \
   ../src/operational_state_machine/headers/OperationalSubstate.h \
   ../src/operational_state_machine/headers/Ready.h \
-  ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/Operational.h \
   ../src/operational_state_machine/headers/Ready.h
@@ -1151,20 +1143,19 @@ src/operational_state_machine/CMakeFiles/Operational_lib.dir/Suspended.cpp.o: ..
   ../src/main_state_machine/headers/Failure.h \
   ../src/operational_state_machine/headers/OperationalSubstate.h \
   ../src/operational_state_machine/headers/Ready.h \
-  ../src/operational_state_machine/headers/Suspended.h \
   ../src/operational_state_machine/headers/EventTypes.h \
   ../src/operational_state_machine/headers/StopCommand.h \
   ../src/operational_state_machine/headers/ResumeCommand.h \
   ../src/operational_state_machine/headers/Ready.h
 
 
+../src/operational_state_machine/headers/Suspended.h:
+
 ../src/operational_state_machine/StopCommand.cpp:
 
 ../src/operational_state_machine/Ready.cpp:
 
 ../src/operational_state_machine/headers/EventTypes.h:
-
-../src/operational_state_machine/headers/Suspended.h:
 
 ../src/operational_state_machine/headers/Ready.h:
 

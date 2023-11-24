@@ -7,5 +7,5 @@ class Stop : public Command {
     public:
         Stop(){}
         ~Stop(){}
-        void execute(Operational* context) override;
+        void execute(Operational* context) const override;
 };

@@ -3,8 +3,8 @@
 #include "Operational.h"
 #include "Ready.h"
 
-Stop::Stop(){}
+//Stop::Stop(){}
 
-void Stop::execute(Operational* context){
+void Stop::execute(Operational* context) const {
     context->TransitionSubState(Ready::getInstance());
 }

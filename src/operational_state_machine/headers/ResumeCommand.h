@@ -7,5 +7,5 @@ class Resume : public Command {
     public:
         Resume(){}
         ~Resume(){}
-        void execute(Operational* context) override;
+        void execute(Operational* context) const override;
 };
